@@ -6,8 +6,10 @@
 }
 .main {
     display: flex;
-
+    align-items: flex-start;
+    justify-content: space-between;
 }
 .card {
-    max-height: 200px;
+    width: 200px;
+    margin: 10px;
 }
