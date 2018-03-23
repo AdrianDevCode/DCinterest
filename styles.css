@@ -1,0 +1,13 @@
+.navbar {
+    padding: .5rem 4rem;
+}
+.navbar img {
+    margin-right: 2rem;
+}
+.main {
+    display: flex;
+
+}
+.card {
+    max-height: 200px;
+}
